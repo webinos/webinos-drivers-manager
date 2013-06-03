@@ -1,0 +1,5 @@
+{
+	"params" : {
+		"drivers" : ["webinos-driver-arduino", "webinos-driver-fake"]
+	}
+}
