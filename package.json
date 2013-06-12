@@ -30,7 +30,5 @@
   "dependencies": {
     "serialport": "x.x.x"
   },
-  "bundleDependencies": [],
-  "readme": "webinos-driver-arduino\n===================\n\n\n",
-  "readmeFilename": "README.md"
+  "bundleDependencies": []
 }
